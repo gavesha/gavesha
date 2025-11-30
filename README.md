@@ -11,14 +11,15 @@
 
 🌱 I’m currently learning HTML, CSS and JS.<br>
 🔭 I’m currently working on building a static website portfolio.
+<hr>
 
 **How To Reach Me**
-<hr>
+
 
 🤝 connect on <a href="https://www.linkedin.com/in/gav-shallow">LinkedIn</a>
 
 
-<img src="https://i.pinimg.com/originals/66/d6/7b/66d67bf4a0e2bf1ab10c3983b7fd1c5d.gif">
+<img src="https://i.pinimg.com/originals/66/d6/7b/66d67bf4a0e2bf1ab10c3983b7fd1c5d.gif" width="1000" height="500">
 
 <!--
 **gavesha/gavesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
