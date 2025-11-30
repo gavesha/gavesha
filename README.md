@@ -10,7 +10,7 @@
 💗 I love designing, learning code languages and problem solving.
 
 🌱 I’m currently learning HTML, CSS and JS.<br>
-🔭 I’m currently working on building a static website portfolio.
+🔭 I’m currently working on a static <b>web portfolio</b>.
 
 <br>
 
