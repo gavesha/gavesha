@@ -1,4 +1,5 @@
 ## Hi there, I am Gavesha 👋👩🏾‍💻
+<img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 
 **About Me**
 <hr>
