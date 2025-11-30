@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi there, I am Gavesha 👋👩🏾‍💻
+
+**About Me**
+<hr>
+🏫 I'm a final year <b>AS Information Technology</b> Student at <b>SVGCC</b>. <br>
+
+👍🏾 Working towards a <b>Computer Science</b> Degree to become a <b>Web Design Developer</b> 
+
+💗 I love designing, learning code languages and problem solving.
+
+🌱 I’m currently learning HTML, CSS and JS.<br>
+🔭 I’m currently working on building a static website portfolio.
+
+**How To Reach Me**
+<hr>
+
+🤝 connect on <a href="https://www.linkedin.com/in/gav-shallow">LinkedIn</a>
+
+
+
 
 <!--
 **gavesha/gavesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
