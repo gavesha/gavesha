@@ -4,7 +4,7 @@
 <hr>
 🏫 I'm a final year <b>AS Information Technology</b> Student at <b>SVGCC</b>. <br>
 
-👍🏾 Working towards a <b>Computer Science</b> Degree to become a <b>Web Design Developer</b> 
+👍🏾 Working towards becoming a <b>Web Design Developer</b> 
 
 💗 I love designing, learning code languages and problem solving.
 
