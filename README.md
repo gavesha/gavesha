@@ -1,4 +1,4 @@
-## Hi there, I am Gavesha
+## Hi there, I'm Gav 👩🏾‍💻
 <img src="https://i.pinimg.com/originals/17/ae/08/17ae08aaf695ffcde2065b9e4cef1093.gif" width="500" height="500">
 
 ## **About Me**
