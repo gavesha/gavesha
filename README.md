@@ -1,8 +1,8 @@
 ## Hi there, I am Gavesha
-<img src="https://i.pinimg.com/originals/17/ae/08/17ae08aaf695ffcde2065b9e4cef1093.gif" width="1000" height="500">
+<img src="https://i.pinimg.com/originals/17/ae/08/17ae08aaf695ffcde2065b9e4cef1093.gif" width="500" height="500">
 
-**About Me**
-<hr>
+## **About Me**
+
 🏫 I'm a final year <b>AS Information Technology</b> Student at <b>SVGCC</b>. <br>
 
 👍🏾 Working towards becoming a <b>Web Design Developer</b> 
@@ -11,15 +11,15 @@
 
 🌱 I’m currently learning HTML, CSS and JS.<br>
 🔭 I’m currently working on building a static website portfolio.
-<hr>
 
-**How To Reach Me**
+<br>
 
-
-🤝 connect on <a href="https://www.linkedin.com/in/gav-shallow">LinkedIn</a>
+## **How To Reach Me**
 
 
-<img src="https://i.pinimg.com/originals/66/d6/7b/66d67bf4a0e2bf1ab10c3983b7fd1c5d.gif" width="1000" height="500">
+🤝 connect with me on <a href="https://www.linkedin.com/in/gav-shallow">LinkedIn</a>
+
+<img src="https://i.pinimg.com/originals/66/d6/7b/66d67bf4a0e2bf1ab10c3983b7fd1c5d.gif" width="100" height="100">
 
 <!--
 **gavesha/gavesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
