@@ -3,8 +3,7 @@
 
 ## **About Me**
 
-🏫 Final year <b>AS Information Technology</b> Student at <b>SVGCC</b>. <br>
-
+🏫 Final year <b>AS Information Technology</b> student.
 👍🏾 Working towards becoming a <b>Web Design Developer</b> 
 💗 Designing, learning code languages and problem solving.
 🌱 I’m currently learning HTML, CSS and JS.<br>
