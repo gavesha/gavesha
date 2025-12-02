@@ -3,11 +3,10 @@
 
 ## **About Me**
 
-🏫 I'm a final year <b>AS Information Technology</b> Student at <b>SVGCC</b>. <br>
+🏫 Final year <b>AS Information Technology</b> Student at <b>SVGCC</b>. <br>
 
 👍🏾 Working towards becoming a <b>Web Design Developer</b> 
-💗 I love designing, learning code languages and problem solving.
-
+💗 Designing, learning code languages and problem solving.
 🌱 I’m currently learning HTML, CSS and JS.<br>
 🔭 I’m currently working on a static <b>web portfolio</b>.
 
