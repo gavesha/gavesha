@@ -3,12 +3,11 @@
 
 ## **About Me**
 
-🏫 Final year <b>AS Information Technology</b> student.
+🏫 Final year <b>AS Information Technology</b> student.<br>
 👍🏾 Working towards becoming a <b>Web Design Developer</b> <br> 
-💗 Designing, learning code languages and problem solving.
+💗 Designing, learning code languages and problem solving.<br>
 🌱 I’m currently learning HTML, CSS and JS.<br>
 🔭 I’m currently working on a static <b>web portfolio</b>.
-
 <br>
 
 ## **How To Reach Me**
