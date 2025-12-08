@@ -7,7 +7,7 @@
 👍🏾 Working towards becoming a <b>Web Design Developer</b> <br> 
 💗 Designing, learning code lang and problem solving.<br>
 🌱 I’m currently learning HTML, CSS and JS.<br>
-🔭 I’m currently working on a static <b>web portfolio</b>.
+🔭 I’m working on a static <b>web portfolio</b>.
 <br>
 
 ## **How To Reach Me**
