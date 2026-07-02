@@ -3,7 +3,7 @@
 
 ## **About Me**
 
-🏫 Final year <b>AS Information Technology</b> student.<br>
+🏫 starting CSIE soon </br>
 👍🏾 Working towards becoming a <b>Web Design Developer</b> <br> 
 💗 Designing, learning code lang and problem solving.<br>
 🌱 I’m currently learning HTML, CSS and JS.<br>
